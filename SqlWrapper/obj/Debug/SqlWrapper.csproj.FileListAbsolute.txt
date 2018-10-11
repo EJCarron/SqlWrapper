@@ -1,0 +1,10 @@
+/Users/edwardcarron/Projects/SqlWrapper/SqlWrapper/bin/Debug/SqlWrapper.dll.config
+/Users/edwardcarron/Projects/SqlWrapper/SqlWrapper/bin/Debug/SqlWrapper.dll
+/Users/edwardcarron/Projects/SqlWrapper/SqlWrapper/bin/Debug/SqlWrapper.pdb
+/Users/edwardcarron/Projects/SqlWrapper/SqlWrapper/bin/Debug/Google.Protobuf.dll
+/Users/edwardcarron/Projects/SqlWrapper/SqlWrapper/bin/Debug/MySql.Data.dll
+/Users/edwardcarron/Projects/SqlWrapper/SqlWrapper/bin/Debug/Google.Protobuf.xml
+/Users/edwardcarron/Projects/SqlWrapper/SqlWrapper/obj/Debug/SqlWrapper.csproj.CoreCompileInputs.cache
+/Users/edwardcarron/Projects/SqlWrapper/SqlWrapper/obj/Debug/SqlWrapper.dll
+/Users/edwardcarron/Projects/SqlWrapper/SqlWrapper/obj/Debug/SqlWrapper.pdb
+/Users/edwardcarron/Projects/SqlWrapper/SqlWrapper/obj/Debug/SqlWrapper.csprojResolveAssemblyReference.cache
